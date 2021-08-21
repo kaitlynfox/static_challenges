@@ -16,3 +16,4 @@ In order to complete these challenges, fork and clone this repository, then add 
 Feel free to organize the HTML however you would like, and create whatever styles you would like. The main goal is for you to get some practice styling a site using HTML and CSS.
 
 If you would like additional practice, feel free to attempt either or both of the remaining challenges.
+# Static-Challenge
