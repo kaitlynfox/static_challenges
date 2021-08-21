@@ -1,0 +1,82 @@
+div.header {
+  color: black;
+  background-color: red;
+}
+
+h2.heading_company_name {
+  color: white;
+  font-size: 40px;
+  font-family: Helvetica;
+  padding-top: 25px;
+  padding-left: 25px;
+  padding-bottom: 25px;
+}
+
+h2.heading_login {
+  color: white;
+  font-size: 20px;
+  text-align: right;
+  padding-right: 25px;
+}
+
+div.navbar {
+  background-color: #5D4F4F;
+  font-size: 15px;
+  color: white;
+  text-align: right;
+  padding-top: 20px;
+  padding-right: 25px;
+  padding-bottom: 20px;
+}
+
+a:visited {
+  color: white;
+}
+
+img.museum {
+  width: 850px;
+  height: 475px;
+  margin-top: 25px;
+  margin-left: 25px;
+  margin-bottom: 25px;
+}
+
+h3.article_title {
+  font-size: 15px;
+  font-family: Helvetica;
+  padding-left: 35px;
+  padding-bottom: 15px;
+  width: 815px;
+}
+
+p.article {
+  width: 780px;
+  font-size: 12px;
+  font-family: serif;
+  padding-left: 35px;
+  padding-bottom: 10px;
+}
+
+aside.right_side_pane {
+  width: 30%;
+  float: right;
+  background-color: LightPink;
+  margin-left: 25px;
+  border: black solid 2px;
+}
+
+h2 {
+  margin-bottom: 10px;
+  margin-right: 25px;
+}
+
+p.footer {
+  margin-top: 35px;
+  background-color: #5D4F4F;
+  color: white;
+  font-size: 12px;
+  padding-top: 25px;
+  padding-left: 35px;
+  padding-right: : 35px;
+  padding-bottom: 25px;
+}
